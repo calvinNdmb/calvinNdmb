@@ -34,7 +34,8 @@ Developed an online platform for analyzing the impact of sorting and recycling o
 - 🔗 [LinkedIn](https://www.linkedin.com/in/c-ndm)  
 
 ## **🚀 Currently Working On** ##
-Learning C# and applying it to develop a sports-related application that combines data analysis and interactivity to enhance user engagement. 🏋️‍♂️
-Enhancing and expanding JARVIS, focusing on new integrations and improving the user experience with cutting-edge AI features. 🤖
+- Learning C# & react. 💻
+- Developping a sports-related application that combines data analysis and interactivity to enhance user engagement. 🏋️‍♂️
+- Enhancing and expanding JARVIS, focusing on new integrations and improving the user experience . 🤖
 
 ---
