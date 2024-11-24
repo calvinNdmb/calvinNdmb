@@ -1,6 +1,7 @@
 # 👨‍💻 Calvin Ndoumbe | Data Enthusiast 🚀
 
 🎓 **Master's student in Business Intelligence and Analytics** at EFREI Paris. Passionate about the world of data, I'll turn every dataset into an opportunity for innovation. I aim to tackle modern challenges through AI-driven and data analysis solutions.
+![Calvin (1)](https://github.com/user-attachments/assets/a670602d-0618-4c98-956a-936de0239d98)
 
 ## 🛠️ **Technical Skills**
 
